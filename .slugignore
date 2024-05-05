@@ -1,0 +1,19 @@
+# Ignorer les dossiers et fichiers temporaires
+node_modules/
+.DS_Store
+*.tmp
+# Ignorer les dossiers de dépendances Python
+venv/
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers de logs et de configuration locaux
+*.log
+*.ini
+*.cfg
+*.json
+
+# Ignorer les dossiers et fichiers temporaires
+node_modules/
+.DS_Store
+*.tmp
