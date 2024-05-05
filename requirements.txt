@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-Flask>=2.2.2
-gunicorn==20.0.4
-Pillow==8.0.1
+Flask
+gunicorn
+Pillow
 torch==2.2.1+cpu
 torchvision==0.17.1+cpu
