@@ -1,4 +1,5 @@
-flask
-torch
-torchvision
-pillow
+Flask==1.1.2
+gunicorn==20.0.4
+Pillow==8.0.1
+torch==1.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
